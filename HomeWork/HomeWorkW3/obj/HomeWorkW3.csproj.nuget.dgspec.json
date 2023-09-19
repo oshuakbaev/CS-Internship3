@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/PracticeW2.csproj": {}
+    "/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWorkW3/HomeWorkW3.csproj": {}
   },
   "projects": {
-    "/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/PracticeW2.csproj": {
+    "/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWorkW3/HomeWorkW3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/PracticeW2.csproj",
-        "projectName": "PracticeW2",
-        "projectPath": "/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/PracticeW2.csproj",
+        "projectUniqueName": "/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWorkW3/HomeWorkW3.csproj",
+        "projectName": "HomeWorkW3",
+        "projectPath": "/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWorkW3/HomeWorkW3.csproj",
         "packagesPath": "/Users/olzas/.nuget/packages/",
-        "outputPath": "/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/",
+        "outputPath": "/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWorkW3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/olzas/.nuget/NuGet/NuGet.Config"

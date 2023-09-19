@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/bin/Debug/net7.0/PracticeW2
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/bin/Debug/net7.0/PracticeW2.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/bin/Debug/net7.0/PracticeW2.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/bin/Debug/net7.0/PracticeW2.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/bin/Debug/net7.0/PracticeW2.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/refint/PracticeW2.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/PracticeW2.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/PracticeM3/obj/Debug/net7.0/ref/PracticeW2.dll
