@@ -1,0 +1,4 @@
+1,LionTest,Carnivore,10
+4,TigerTest,Carnivore,10
+3,CowTest,Herbivore,7
+

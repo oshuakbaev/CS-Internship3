@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/bin/Debug/net7.0/Module4PracticeCS3
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/bin/Debug/net7.0/Module4PracticeCS3.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/bin/Debug/net7.0/Module4PracticeCS3.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/bin/Debug/net7.0/Module4PracticeCS3.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/bin/Debug/net7.0/Module4PracticeCS3.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/refint/Module4PracticeCS3.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/Module4PracticeCS3.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module4PracticeCS3/Module4PracticeCS3/obj/Debug/net7.0/ref/Module4PracticeCS3.dll
