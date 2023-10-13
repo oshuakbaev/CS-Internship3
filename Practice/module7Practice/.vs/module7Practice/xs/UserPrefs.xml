@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9F8100C0-7A9A-4E2C-A202-780D261B0036}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="module7Practice/Program.cs">
+    <Files>
+      <File FileName="module7Practice/Program.cs" Line="28" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="module7Practice" expanded="True">
+            <Node name="module7Practice">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.module7Practice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

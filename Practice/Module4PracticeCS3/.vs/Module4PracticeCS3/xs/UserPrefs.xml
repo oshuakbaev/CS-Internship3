@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{FD87E706-0209-4E3F-9B24-410F7CA224E5}|Default">
-  <MonoDevelop.Ide.ItemProperties.Module4PracticeCS3 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Module4PracticeCS3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module4PracticeCS3/Program.cs">
+    <Files>
+      <File FileName="Module4PracticeCS3/Program.cs" Line="115" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module4PracticeCS3" expanded="True">
+            <Node name="Module4PracticeCS3">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

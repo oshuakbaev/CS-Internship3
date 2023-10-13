@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/bin/Debug/net7.0/module7Practice
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/bin/Debug/net7.0/module7Practice.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/bin/Debug/net7.0/module7Practice.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/bin/Debug/net7.0/module7Practice.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/bin/Debug/net7.0/module7Practice.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/refint/module7Practice.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/module7Practice.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/module7Practice/module7Practice/obj/Debug/net7.0/ref/module7Practice.dll
