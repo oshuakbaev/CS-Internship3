@@ -1,0 +1,11 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\bin\Debug\net6.0\Module6HomeWorkLibrary.deps.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\bin\Debug\net6.0\Module6HomeWorkLibrary.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\bin\Debug\net6.0\Module6HomeWorkLibrary.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\refint\Module6HomeWorkLibrary.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\Module6HomeWorkLibrary.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\Module6HomeWork\Module6HomeWorkLibrary\obj\Debug\net6.0\ref\Module6HomeWorkLibrary.dll
