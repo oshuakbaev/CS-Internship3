@@ -1,0 +1,14 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\bin\Debug\net6.0\Module8PracticeWork1.exe
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\bin\Debug\net6.0\Module8PracticeWork1.deps.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\bin\Debug\net6.0\Module8PracticeWork1.runtimeconfig.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\bin\Debug\net6.0\Module8PracticeWork1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\bin\Debug\net6.0\Module8PracticeWork1.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\refint\Module8PracticeWork1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\Module8PracticeWork1.genruntimeconfig.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\Module8PracticeWork\Module8PracticeWork1\obj\Debug\net6.0\ref\Module8PracticeWork1.dll
