@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9D25D8ED-EE92-4721-BE6F-1BC6D6B83D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module10HomeWork1/Class1.cs">
+    <Files>
+      <File FileName="Module10HomeWork1/Person.cs" Line="28" Column="10" IsPinned="True" />
+      <File FileName="Module10HomeWork1/Student.cs" />
+      <File FileName="Module10HomeWork1/Teacher.cs" />
+      <File FileName="Module10HomeWork1/Class1.cs" Line="14" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Module10HomeWork1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
