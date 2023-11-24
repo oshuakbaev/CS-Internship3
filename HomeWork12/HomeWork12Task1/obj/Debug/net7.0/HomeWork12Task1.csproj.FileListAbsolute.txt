@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/bin/Debug/net7.0/HomeWork12Task1
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/bin/Debug/net7.0/HomeWork12Task1.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/bin/Debug/net7.0/HomeWork12Task1.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/bin/Debug/net7.0/HomeWork12Task1.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/bin/Debug/net7.0/HomeWork12Task1.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/refint/HomeWork12Task1.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/HomeWork12Task1.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork12/HomeWork12Task1/obj/Debug/net7.0/ref/HomeWork12Task1.dll
