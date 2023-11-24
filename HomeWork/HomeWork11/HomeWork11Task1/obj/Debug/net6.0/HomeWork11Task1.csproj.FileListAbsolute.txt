@@ -1,0 +1,14 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\bin\Debug\net6.0\HomeWork11Task1.exe
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\bin\Debug\net6.0\HomeWork11Task1.deps.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\bin\Debug\net6.0\HomeWork11Task1.runtimeconfig.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\bin\Debug\net6.0\HomeWork11Task1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\bin\Debug\net6.0\HomeWork11Task1.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\refint\HomeWork11Task1.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\HomeWork11Task1.genruntimeconfig.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\HomeWork\HomeWork11\HomeWork11Task1\obj\Debug\net6.0\ref\HomeWork11Task1.dll
