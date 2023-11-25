@@ -31,7 +31,7 @@ namespace Module9HomeWork
             
         }
 
-        public void CalculateAnnualSalary()
+        public virtual void CalculateAnnualSalary()
         {
             Console.WriteLine("Annual salary is : " + Salary * 12);
         }

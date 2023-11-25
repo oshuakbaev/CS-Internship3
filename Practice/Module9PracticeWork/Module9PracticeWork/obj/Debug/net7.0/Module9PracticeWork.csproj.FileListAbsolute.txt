@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/bin/Debug/net7.0/Module9PracticeWork
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/bin/Debug/net7.0/Module9PracticeWork.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/bin/Debug/net7.0/Module9PracticeWork.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/bin/Debug/net7.0/Module9PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/bin/Debug/net7.0/Module9PracticeWork.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/refint/Module9PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/Module9PracticeWork.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module9PracticeWork/Module9PracticeWork/obj/Debug/net7.0/ref/Module9PracticeWork.dll

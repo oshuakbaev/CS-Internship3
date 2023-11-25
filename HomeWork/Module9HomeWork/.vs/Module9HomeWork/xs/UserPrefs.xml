@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{6C44421E-A20D-4867-ACF9-05CCF639C591}|Default">
-  <MonoDevelop.Ide.ItemProperties.Module9HomeWork FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Module9HomeWork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module9HomeWork/Program.cs">
+    <Files>
+      <File FileName="Module9HomeWork/Program.cs" Line="30" Column="6" />
+      <File FileName="Module9HomeWork/Employee.cs" Line="34" Column="23" />
+      <File FileName="Module9HomeWork/Manager.cs" Line="14" Column="10" />
+      <File FileName="Module9HomeWork/Developer.cs" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module9HomeWork">
+            <Node name="Module9HomeWork">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
