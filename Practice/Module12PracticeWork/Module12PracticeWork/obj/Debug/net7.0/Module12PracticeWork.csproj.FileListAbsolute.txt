@@ -1,0 +1,14 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.csproj.CoreCompileInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/bin/Debug/net7.0/Module12PracticeWork
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/bin/Debug/net7.0/Module12PracticeWork.deps.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/bin/Debug/net7.0/Module12PracticeWork.runtimeconfig.json
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/bin/Debug/net7.0/Module12PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/bin/Debug/net7.0/Module12PracticeWork.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/refint/Module12PracticeWork.dll
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.pdb
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/Module12PracticeWork.genruntimeconfig.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/Practice/Module12PracticeWork/Module12PracticeWork/obj/Debug/net7.0/ref/Module12PracticeWork.dll

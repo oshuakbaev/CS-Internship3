@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{75A2AAFF-87A9-4742-AEF5-CB5536CAB2A7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Module9PracticeWork FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module9PracticeWork/Program.cs">
+    <Files>
+      <File FileName="Module9PracticeWork/Program.cs" Line="28" Column="33" />
+      <File FileName="Module9PracticeWork/HDD.cs" Line="6" Column="9" />
+      <File FileName="Module9PracticeWork/Flash.cs" Line="43" Column="2" />
+      <File FileName="Module9PracticeWork/DVD.cs" Line="8" Column="9" />
+      <File FileName="Module9PracticeWork/Storage.cs" Line="18" Column="28" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module9PracticeWork" expanded="True">
+            <Node name="Module9PracticeWork">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Module9PracticeWork PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
