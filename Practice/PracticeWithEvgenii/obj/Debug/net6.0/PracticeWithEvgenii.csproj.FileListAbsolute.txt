@@ -1,0 +1,4 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\PracticeWithEvgenii\obj\Debug\net6.0\PracticeWithEvgenii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\PracticeWithEvgenii\obj\Debug\net6.0\PracticeWithEvgenii.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\PracticeWithEvgenii\obj\Debug\net6.0\PracticeWithEvgenii.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\PracticeWithEvgenii\obj\Debug\net6.0\PracticeWithEvgenii.csproj.CoreCompileInputs.cache
