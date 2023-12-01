@@ -1,0 +1,4 @@
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWork14Module/HomeWork14Module/obj/Debug/net7.0/HomeWork14Module.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWork14Module/HomeWork14Module/obj/Debug/net7.0/HomeWork14Module.AssemblyInfoInputs.cache
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWork14Module/HomeWork14Module/obj/Debug/net7.0/HomeWork14Module.AssemblyInfo.cs
+/Users/olzas/Documents/IT/github/CS-Internship3/HomeWork/HomeWork14Module/HomeWork14Module/obj/Debug/net7.0/HomeWork14Module.csproj.CoreCompileInputs.cache
