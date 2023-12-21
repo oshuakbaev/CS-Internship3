@@ -1,0 +1,14 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\bin\Debug\net6.0\QupyaSoz.exe
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\bin\Debug\net6.0\QupyaSoz.deps.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\bin\Debug\net6.0\QupyaSoz.runtimeconfig.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\bin\Debug\net6.0\QupyaSoz.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\bin\Debug\net6.0\QupyaSoz.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\refint\QupyaSoz.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\QupyaSoz.genruntimeconfig.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Project\QupyaSoz\obj\Debug\net6.0\ref\QupyaSoz.dll

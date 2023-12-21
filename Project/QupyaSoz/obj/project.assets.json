@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\lucky\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\HomeWork\\Module13HW\\Module13HW\\Module13HW.csproj",
-      "projectName": "Module13HW",
-      "projectPath": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\HomeWork\\Module13HW\\Module13HW\\Module13HW.csproj",
+      "projectUniqueName": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\Project\\QupyaSoz\\QupyaSoz.csproj",
+      "projectName": "QupyaSoz",
+      "projectPath": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\Project\\QupyaSoz\\QupyaSoz.csproj",
       "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\HomeWork\\Module13HW\\Module13HW\\obj\\",
+      "outputPath": "C:\\Users\\lucky\\Documents\\University\\7s semestr\\CS-Internship3\\MyGitProject\\CS-Internship3\\Project\\QupyaSoz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",

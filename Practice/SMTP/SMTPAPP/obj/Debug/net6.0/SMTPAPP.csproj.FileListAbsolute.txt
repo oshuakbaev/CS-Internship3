@@ -1,0 +1,14 @@
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\bin\Debug\net6.0\SMTPAPP.exe
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\bin\Debug\net6.0\SMTPAPP.deps.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\bin\Debug\net6.0\SMTPAPP.runtimeconfig.json
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\bin\Debug\net6.0\SMTPAPP.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\bin\Debug\net6.0\SMTPAPP.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.AssemblyInfoInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.AssemblyInfo.cs
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\refint\SMTPAPP.dll
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.pdb
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\SMTPAPP.genruntimeconfig.cache
+C:\Users\lucky\Documents\University\7s semestr\CS-Internship3\MyGitProject\CS-Internship3\Practice\SMTP\SMTPAPP\obj\Debug\net6.0\ref\SMTPAPP.dll
